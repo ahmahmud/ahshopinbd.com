@@ -1,0 +1,76 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Shopinbd.tk" resolutions="1x" timestamp="1514116611710">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="139065778" ref="printing:audio-engineering:order-now:video-editing:catagory:camera-operation:web-template:producing:index:graphics-design-template:illustrator:animation-backgroun:photoshop:tutorial:shop-in"/>
+    <file name="printing.css" crc="3928750270" ref="printing"/>
+    <file name="audio-engineering.css" crc="3928750270" ref="audio-engineering"/>
+    <file name="order-now.css" crc="3928750270" ref="order-now"/>
+    <file name="video-editing.css" crc="3928750270" ref="video-editing"/>
+    <file name="catagory.css" crc="3928750270" ref="catagory"/>
+    <file name="camera-operation.css" crc="3928750270" ref="camera-operation"/>
+    <file name="web-template.css" crc="3928750270" ref="web-template"/>
+    <file name="producing.css" crc="3928750270" ref="producing"/>
+    <file name="index.css" crc="3928750270" ref="index"/>
+    <file name="graphics-design-template.css" crc="3928750270" ref="graphics-design-template"/>
+    <file name="illustrator.css" crc="3928750270" ref="illustrator"/>
+    <file name="animation-backgroun.css" crc="3928750270" ref="animation-backgroun"/>
+    <file name="photoshop.css" crc="3928750270" ref="photoshop"/>
+    <file name="tutorial.css" crc="3928750270" ref="tutorial"/>
+    <file name="shop-in.css" crc="4130135513" ref="shop-in"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="museutils.js" crc="4155826306" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="whatinput.js" crc="86476730" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="museconfig.js" crc="483509463" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="pie.js" crc="3827607177" ref="index:shop-in"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="webpro.js" crc="4078243563" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="touchswipe.js" crc="157639107" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="require.js" crc="228336483" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+  </folder>
+  <folder name="images">
+    <file name="u113-4.png" crc="306736168" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="u103-5.png" crc="4167221302" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="road.jpg" crc="4151483001" seo="true" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="cactus.jpg" crc="4201869498" seo="true" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="trees.jpg" crc="4191302809" seo="true" ref="index:shop-in:order-now:catagory:web-template:graphics-design-template:animation-backgroun:tutorial:audio-engineering:video-editing:camera-operation:producing:illustrator:photoshop:printing"/>
+    <file name="chrysanthemum.jpg" crc="4149292204" seo="true" ref="shop-in"/>
+    <file name="blank.gif" crc="4208392903" ref="shop-in"/>
+    <file name="desert.jpg" crc="238217487" seo="true" ref="shop-in"/>
+    <file name="hydrangeas.jpg" crc="4135681136" seo="true" ref="shop-in"/>
+    <file name="jellyfish.jpg" crc="4049683465" seo="true" ref="shop-in"/>
+    <file name="koala.jpg" crc="414939079" seo="true" ref="shop-in"/>
+    <file name="lighthouse.jpg" crc="447280898" seo="true" ref="shop-in"/>
+    <file name="penguins.jpg" crc="532949971" seo="true" ref="shop-in"/>
+    <file name="tulips.jpg" crc="23032660" seo="true" ref="shop-in"/>
+    <file name="chrysanthemum60x45.jpg" crc="383176689" seo="true" ref="shop-in"/>
+    <file name="desert60x45.jpg" crc="4249302154" seo="true" ref="shop-in"/>
+    <file name="hydrangeas60x45.jpg" crc="4250664861" seo="true" ref="shop-in"/>
+    <file name="jellyfish60x45.jpg" crc="3879686393" seo="true" ref="shop-in"/>
+    <file name="koala60x45.jpg" crc="311894339" seo="true" ref="shop-in"/>
+    <file name="lighthouse60x45.jpg" crc="95585422" seo="true" ref="shop-in"/>
+    <file name="penguins60x45.jpg" crc="277180952" seo="true" ref="shop-in"/>
+    <file name="tulips60x45.jpg" crc="526924677" seo="true" ref="shop-in"/>
+    <file name="loading.gif" crc="3815509949" ref="shop-in"/>
+  </folder>
+  <file name="index.html" crc="503953224" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="shop-in.html" crc="101765920" seo="true" mt="1514095979788" redirect="true"/>
+  <file name="order-now.html" crc="275585198" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="catagory.html" crc="66681124" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="web-template.html" crc="3797578731" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="graphics-design-template.html" crc="493647874" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="animation-backgroun.html" crc="4223575942" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="tutorial.html" crc="4042237599" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="audio-engineering.html" crc="266143057" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="video-editing.html" crc="60283916" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="camera-operation.html" crc="4229626327" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="producing.html" crc="4047975350" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="illustrator.html" crc="217647314" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="photoshop.html" crc="4171740544" seo="true" mt="1514095531559" redirect="true"/>
+  <file name="printing.html" crc="4003474029" seo="true" mt="1514095531559" redirect="true"/>
+</manifest>
